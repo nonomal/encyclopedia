@@ -1,4 +1,4 @@
-> 漫漫人生路，赠予有缘人。更新：20250305
+> 漫漫人生路，赠予有缘人。更新：20250315
 
 ❗Books and materials are only for personal learning and use, and the copyright belongs to the original author. If there is any infringement, please contact me!（书籍和资料仅供个人学习使用，版权归原作者所有，如有侵权请联系我！）
 
@@ -233,6 +233,7 @@ encyclopedia
         ├── 神曲(三册)意大利-但丁-田德望译.pdf
         ├── Chinese Quran Inside Text.pdf
         ├── 道教神学概论 (陈耀庭).pdf
+        ├── 气的思想——中国自然观与人的观念的发展.pdf
         ├── 邪教的十个特征.docx
         ├── 意识的解释-丹尼尔.丹尼特.pdf
         └── 看过的电影推荐清单.md
